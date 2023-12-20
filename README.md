@@ -1,4 +1,4 @@
-# inventorybarang
+# website toko roti inventory dan penjualan
 source code inventory barang, dibuat menggunakan php native dan mysql sebagai database.<br/>
 beberapa fitur inventory barang ini<br/>
 <ol>
