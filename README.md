@@ -10,4 +10,5 @@ beberapa fitur inventory barang ini<br/>
 <li>dll</li>
 </ol>
 untuk penambahan fitur dll, dapat mengubungi<br/>
-<strong>rizka.dwi.saputra@gmail.com</strong>
+<strong>fahrizalaziz54@gmail.com</strong>
+IG : <strong>@fahri_atmaja</strong>
